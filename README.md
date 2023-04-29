@@ -7,20 +7,14 @@ Getting Started
 
 To get started with this repository, simply clone it to your local machine using the following command:
 
-bashCopy code
-
 `git clone https://github.com/charlespalmerbf/react-native-tesla-clone.git`
 
 Then, navigate to the project directory and install the necessary dependencies:
-
-bashCopy code
 
 `cd react-native-tesla-clone
 npm install`
 
 Finally, start the development server:
-
-sqlCopy code
 
 `npm start`
 
